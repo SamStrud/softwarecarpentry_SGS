@@ -2,6 +2,6 @@
 ##Ingredients
 - avocado
 - salt
-- lime
+- lemon
 ##Method
 
